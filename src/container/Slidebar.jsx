@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../../src/logo.svg'
 import {FiSearch} from "react-icons/fi"
 function Slidebar() {
   return (
